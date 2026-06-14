@@ -10,7 +10,7 @@ html {
 }
 
 .header-not-only-section__background {
-    background-image: url("./images/start-screen-gradient-background.jpg");
+    background-image: url("./images/backgrounds/start-screen-gradient-background.jpg");
     background-repeat: repeat-x;
 }
 
@@ -290,7 +290,7 @@ html {
 }
 
 .footer {
-    background-image: url("./images/footer-background.png");
+    background-image: url("./images/backgrounds/footer-background.png");
     padding: 40px 40px 0 40px;
     display: flex;
     justify-content: center;
